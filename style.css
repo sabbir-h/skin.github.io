@@ -1,0 +1,110 @@
+
+body{
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+	
+}
+header{
+	background-image: url("b1.jpg") ;
+	text-align: right;
+	font-size: 25px;
+	height:8vh;
+	background-color:#5F9EA0;
+	background-position:center;
+}
+#hl{
+	list-style-type:none;
+	margin-top:25px;
+}
+.hb{
+	display:inline-block;
+	text-decoration:none;
+	margin-top:25px;
+	margin-right:5px;
+}
+.hb a{
+	color:#fff;
+	border:1px solid #fff;
+	padding:5px 20px;
+	text-decoration:none;
+	color:#fff;
+	transition:300ms;
+	
+}
+.hb a:hover{
+	background-color:#fff;
+	color:#000;
+	padding:18px 40px;
+	font-weight:600;
+}
+#a{
+  text-align: center;
+  font-family:"Arial Black", Gadget, sans-serif	;
+  height:7vh;
+  background-image: url('deasis.jpg');
+  border: 5px solid DarkOrchid;
+  border-radius: 5px;
+  padding:15px;
+  color:DarkOrchid;
+  background-color:AliceBlue;
+}
+#b{
+	font-size:35px;
+	color: DarkMagenta;
+	text-align: center;
+	font:bold;
+}
+#c{
+	font-size:25px;
+	color: DarkMagenta;
+	text-align: center;
+	font: bold;
+	background: AliceBlue
+	
+}
+#f{
+	background: AliceBlue;
+	background-position:capitalize;
+	font-size: 28px;
+	border-style:solid;
+	border-width: 4px;
+	width: 50%vw;
+	height: 60%vh;
+	font: bold;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	
+}
+#d{
+	font-family:"Comic Sans MS", cursive, sans-serif	;
+	font-size: 30px;
+}
+button{
+  background-color: BlueViolet; 
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: center;
+  font-size: 18px;
+  float: center;	
+}
+button:hover{
+		background-color:Indigo
+}
+#result{
+	font-size: 32px;
+	font-family:"Arial Black", Gadget, sans-serif	;
+}
+.up{
+  background-color: Violet; 
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: center;
+  font-size: 18px;
+  float: center;
+}
